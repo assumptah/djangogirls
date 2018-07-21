@@ -1,0 +1,6 @@
+include/
+lib/
+__pycache__/
+.pyc
+Scripts/
+tcl/
